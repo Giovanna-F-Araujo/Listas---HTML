@@ -1,4 +1,4 @@
 # Praticando HTML e CSS
 
-Projetos em HTML e CSS - Nível básico 
+Exercícios em HTML e CSS - Nível básico 
  
